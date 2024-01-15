@@ -1,7 +1,7 @@
 /**
  * Just replace BAREUR
  */ 
-const BAREURL = 'https://hnetweb.nbzdwss78.tk'
+const BAREURL = 'https://barw.go2site.link/'
 
 /**
  * Non-developers, please modify without authorization, 98% report errors!
